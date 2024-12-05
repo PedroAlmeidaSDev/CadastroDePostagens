@@ -1,0 +1,1 @@
+Desenvolvi uma aplicação web utilizando Node.js, Express, Sequelize e Handlebars, com integração a um banco de dados MySQL. O projeto implementa um CRUD simples, permitindo o cadastro, listagem e exclusão de postagens. A aplicação segue boas práticas na organização de rotas e modelos.
